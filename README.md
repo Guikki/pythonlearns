@@ -31,4 +31,8 @@ primeiro, é necessário inserir variável. Vamos iniciar inserindo na variável
 
 depois, vamos inserir a variável **quantidade**, o valor **4** (NOTE QUE ESTÁ SEM ASPAS).
 
+
+> Observação!
+
+É bom lembrar que o Python coloca 4 espaçamentos abaixo, quando você insere uma tabulação. É uma forma de ficar organizado, e é padrão do próprio Python.
 Para conferir, é só digitar type(variável). Nos exemplos, type(pais) ou type(quantidade)
