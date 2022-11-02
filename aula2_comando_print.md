@@ -59,8 +59,3 @@ Após isso, você pode escrever o comando da função print com as variáveis de
 print (pais, "ganhou", quantidade, "títulos mundiais"), e ver que a impressão sairá correta. Percebeu também que as variáveis declaradas **NÃO POSSUEM ASPAS**? Esta é a razão: Em Python, quando você digita algo na **função print** com aspas, o seu computador irá entender que você está querendo imprimir exatamente aquilo que está entre as aspas; quando você não coloca as aspas, o seu computador lerá que você deseja **imprimir as variáveis**, e você precisará ter declarado alguma variável pra o programa ser executado corretamente.
 
 ![image](https://user-images.githubusercontent.com/86801366/199405078-0d2dac03-4c29-4446-af75-055f07dd1001.png)
-
-
-> Observação!
-É bom lembrar que o Python coloca 4 espaçamentos abaixo, quando você insere uma tabulação. É uma forma de ficar organizado, e é padrão do próprio Python.
-Para conferir, é só digitar type(variável). Nos exemplos, type(pais) ou type(quantidade)
