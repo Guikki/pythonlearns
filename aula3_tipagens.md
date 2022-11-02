@@ -13,9 +13,13 @@ Você fez o teste anterior e viu que, quando declarou que "pais = Brasil" e usou
 
 Agora, experimente colocar "pais = 644", e depois volte a usar a função **type(pais)**, e você verá que a classificação mudou pra 'int', sendo um número inteiro. Percebeu?
 
+![image](https://user-images.githubusercontent.com/86801366/199606550-67a8d6d0-e3a1-4dec-bd2e-ede4b4225e47.png)
 
 
 Novamente, declare que "pais = 7.9", e use a mesma função **type(pais)**. Apareceu aí "class 'float'"? 
+
+![image](https://user-images.githubusercontent.com/86801366/199606583-7f311f36-b1d5-4fe4-8d20-1d758320705f.png)
+
 
 Isso é a tipagem dinâmica: A própria linguagem reconhece a variável, sem você precisar declarar qual o tipo. A vantagem é evitar que você tenha a preocupação de declarar tipo por tipo de variável;
 
