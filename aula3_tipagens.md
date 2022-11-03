@@ -1,4 +1,4 @@
-> O que são typagens?
+> O QUE SÃO TIPAGENS?
 
 Como vimos na aula anterior, a variável "pais" estava com a typagem em **string**.
 
