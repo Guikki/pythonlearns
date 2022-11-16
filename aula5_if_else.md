@@ -57,6 +57,10 @@ Uma outra forma é você juntar os dois, fazendo com que a **input** já chegue 
 
 perceba como aqui, é como se **dentro da função int, eu colocasse a função input**. Assim, dali em diante, já chega considerando que a input será um número inteiro
 
-No final, na mesma linha vertical do else, crie uma função print pra encerrar o jogo. Combinado? Nos vemos no próximo material!
+No final, na mesma linha vertical do else, crie uma função print pra encerrar o jogo. Combinado? 
+
+![image](https://user-images.githubusercontent.com/86801366/202106485-f5225136-7993-4d96-9353-c9eb5ee246af.png)
+
+Nos vemos no próximo material!
 
 * *IDE = Integrated Development Environment, ou ambiente de desenvolvimento integrado. São programas que você usa para escrever seu código. Mais detalhes, pode acessar esse link aqui: https://www.alura.com.br/artigos/o-que-e-uma-ide
