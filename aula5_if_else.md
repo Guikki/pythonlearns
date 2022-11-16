@@ -1,6 +1,6 @@
+Olá! que bom te ver de volta! Vamos falar aqui sobre as condicionais, as famosas "if" e "else" no Python
 
-
-Como a gente coloca as condicionais em python?
+> Como a gente coloca as condicionais em python?
 
 Notou que **SE** a condição for verdadeira (ou seja, **SE** _numero_secreto_ for igual a _chute_), é que teremos o print " **Você acertou!** "?
 (uma obsevação: É muito comum programadores falarem da função como se fosse substantivo ou verbo, ok? "Faz um print", "printa isso", "já deu um print?" é muito comum, e será usado aqui de agora em diante)
@@ -59,4 +59,4 @@ perceba como aqui, é como se **dentro da função int, eu colocasse a função 
 
 No final, na mesma linha vertical do else, crie uma função print pra encerrar o jogo. Combinado? Nos vemos no próximo material!
 
-* IDE = Integrated Development Environment, ou ambiente de desenvolvimento integrado. São programas que você usa para escrever seu código. Mais detalhes, pode acessar esse link aqui: https://www.alura.com.br/artigos/o-que-e-uma-ide
+* *IDE = Integrated Development Environment, ou ambiente de desenvolvimento integrado. São programas que você usa para escrever seu código. Mais detalhes, pode acessar esse link aqui: https://www.alura.com.br/artigos/o-que-e-uma-ide
