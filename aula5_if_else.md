@@ -69,7 +69,7 @@ _Pareceu confuso? Vamos explicar devagar então._
 
 Vamos voltar ao nosso exemplo: Você tem o número secreto, e o chute. Caso o chute seja igual ao número secreto, temos o uso do **if** já colocado aí em cima;
 
-Quando a condição não é satisfeita (ou seja, quando o número secreto é diferente do chute), temos o **else** ali pra isso.
+Quando a condição não é satisfeita (ou seja, quando o número secreto é diferente do chute), temos o **else** ali pra isso. Lembre que o **else** NÃO ACEITA nenhuma condição!
 
 Mas note que **dentro do ELSE, podemos colocar uma outra condição**. Assim, seria uma forma de você não identar novamente o if dentro de um novo else; pra isso serve o **ELIF**.
 
