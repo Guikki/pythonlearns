@@ -61,6 +61,25 @@ No final, na mesma linha vertical do else, crie uma função print pra encerrar 
 
 ![image](https://user-images.githubusercontent.com/86801366/202106485-f5225136-7993-4d96-9353-c9eb5ee246af.png)
 
+E só de lembrete, vou te avisar aqui: Também existe uma forma de você unir **if** e **else** num comando só.
+
+_Pareceu confuso? Vamos explicar devagar então._
+
+**AS VEZES** você pode precisar usar uma condição dentro da condição. E é nessas horas que existe o **elif**, que nada prática, nada mais é do que um **if** dentro de um **else**.
+
+Vamos voltar ao nosso exemplo: Você tem o número secreto, e o chute. Caso o chute seja igual ao número secreto, temos o uso do **if** já colocado aí em cima;
+
+Quando a condição não é satisfeita (ou seja, quando o número secreto é diferente do chute), temos o **else** ali pra isso.
+
+Mas note que **dentro do ELSE, podemos colocar uma outra condição**. Assim, seria uma forma de você não identar novamente o if dentro de um novo else; pra isso serve o **ELIF**.
+
+![image](https://user-images.githubusercontent.com/86801366/210686598-da8aed10-e501-4564-8477-93cf91951b71.png)
+
+
+_Cara, fala sério! Um else ali e já tava resolvido!_
+
+Sim, **NESTE CASO**, de fato. Mas pense pelo lado positivo: Você acaba de aprender um recurso novo, que pode ser útil em seu futuro! =]
+
 Nos vemos no próximo material!
 
 * *IDE = Integrated Development Environment, ou ambiente de desenvolvimento integrado. São programas que você usa para escrever seu código. Mais detalhes, pode acessar esse link aqui: https://www.alura.com.br/artigos/o-que-e-uma-ide
