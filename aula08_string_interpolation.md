@@ -10,5 +10,7 @@ Enfim. Podemos inicialmente colocar o símbolo de chaves para demonstrar que as 
 
 depois disso, a gente usa a função **_.format()_** e declarar as variáveis na ordem das chaves. Assim, nosso exemplo fica:
 
+![image](https://user-images.githubusercontent.com/86801366/216492900-231980f9-c0f5-498c-87eb-9f79adb2edf9.png)
+
 
 O nome disso é **_INTERPOLAÇÃO DE STRING_** (String Interpolation); um recurso para as substituições.
