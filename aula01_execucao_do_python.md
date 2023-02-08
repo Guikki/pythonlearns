@@ -1,7 +1,7 @@
 Aulas de Python - **Alura**
 anotações sobre as aulas de Python do curso . Disponível em: https://cursos.alura.com.br/course/python-introducao-a-linguagem/task/22687
 
-Realizei o download da versão **3.10.7** em https://www.python.org/downloads/
+Realizei o download da versão **3.10.9** em https://www.python.org/downloads/
 
 Como eu estou aprendendo isso aqui no windows, as instruções aqui são pra esse sistema operacional, ok?
 
@@ -19,7 +19,7 @@ O sinal que você fez certo é aparecer o símbolo **>>>** já em outra linha. I
 
 O mais legal aqui é que você pode escrever diretamente no Prompt de comando, no VSC (ou outro IDE que você prefira), e também executando o IDLE que é instalado junto com o próprio Python.
 
->> mas Gui, e se eu não quiser nem instalar nada... dá pra escrever código em Python?
+> mas Gui, e se eu não quiser nem instalar nada... dá pra escrever código em Python?
 
 E a resposta é: **SIM**
 
